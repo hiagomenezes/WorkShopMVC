@@ -37,7 +37,8 @@ namespace WorkShopMVC
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.AddDbContext<WorkShopMVCContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("WorkShopMVCContext")));
+                    options.UseSqlServer(Configuration.GetConnectionString("WorkShopMVCContext"), builder =>
+                    builder.MigrationsAssembly("WorkShopMVC")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
