@@ -11,6 +11,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using WorkShopMVC.Models;
+using WorkShopMVC.Data;
 
 namespace WorkShopMVC
 {
@@ -39,6 +40,8 @@ namespace WorkShopMVC
             services.AddDbContext<WorkShopMVCContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("WorkShopMVCContext"), builder =>
                     builder.MigrationsAssembly("WorkShopMVC")));
+
+            services.AddScoped<SeedingService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

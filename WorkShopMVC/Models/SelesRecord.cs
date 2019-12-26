@@ -18,9 +18,9 @@ namespace WorkShopMVC.Models
         {
         }
 
-        public SelesRecord(int integer, DateTime date, double amount, SaleStatus status, Seller seller)
+        public SelesRecord(int id, DateTime date, double amount, SaleStatus status, Seller seller)
         {
-            Id = integer;
+            Id = id;
             Date = date;
             Amount = amount;
             Status = status;
