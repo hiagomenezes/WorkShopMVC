@@ -5,7 +5,6 @@ C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\bin\Debug\netcoreapp2.1\Wor
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\bin\Debug\netcoreapp2.1\WorkShopMVC.runtimeconfig.json
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\bin\Debug\netcoreapp2.1\WorkShopMVC.runtimeconfig.dev.json
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\bin\Debug\netcoreapp2.1\WorkShopMVC.dll
-C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.csprojAssemblyReference.cache
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.RazorAssemblyInfo.cache
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.RazorAssemblyInfo.cs
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.AssemblyInfoInputs.cache
@@ -37,3 +36,5 @@ C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Raz
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.cshtml.g.cs
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.cshtml.g.cs
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.csprojAssemblyReference.cache
+C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs

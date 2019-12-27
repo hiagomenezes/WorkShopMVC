@@ -7,7 +7,6 @@ namespace WorkShopMVC.Models
 {
     public class Department
     {
-
         public int Id { get; set; }
         public string Name { get; set; }
         public ICollection<Seller> sellers { get; set; } = new List<Seller>();
@@ -16,9 +15,8 @@ namespace WorkShopMVC.Models
         {
         }
 
-        public Department(int id, string name)
+        public Department( string name)
         {
-            Id = id;
             Name = name;
         }
 
