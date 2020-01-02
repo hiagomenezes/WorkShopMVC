@@ -38,3 +38,4 @@ C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Wor
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.dll
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.pdb
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.csproj.CopyComplete
+C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
