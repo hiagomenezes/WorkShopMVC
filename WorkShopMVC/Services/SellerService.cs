@@ -21,7 +21,7 @@ namespace WorkShopMVC.Services
         }
         public void Inset(Seller obj)
         {
-            obj.department = _context.Department.First();
+            //obj.department = _context.Department.First();
             _context.Add(obj);
             _context.SaveChanges();
         }

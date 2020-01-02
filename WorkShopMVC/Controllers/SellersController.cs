@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using WorkShopMVC.Models;
+using WorkShopMVC.Models.ViewModels;
 using WorkShopMVC.Services;
 
 namespace WorkShopMVC.Controllers
@@ -11,10 +12,13 @@ namespace WorkShopMVC.Controllers
     public class SellersController : Controller
     {
         private readonly SellerService _sellerService;
+        private readonly DepartmentService _departmentService;
+        
 
-        public SellersController(SellerService sellerService)
+        public SellersController(SellerService sellerService, DepartmentService departmentService)
         {
             _sellerService = sellerService;
+            _departmentService = departmentService;
         }
 
         public IActionResult Index()
@@ -24,7 +28,9 @@ namespace WorkShopMVC.Controllers
         }
         public IActionResult Create()
         {
-            return View();
+            var departments = _departmentService.FindAll();
+            var viewModel = new SellerFormViewModel { Departments = departments };
+            return View(viewModel);
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
