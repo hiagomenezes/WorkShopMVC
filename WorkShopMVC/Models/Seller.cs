@@ -16,7 +16,7 @@ namespace WorkShopMVC.Models
         public double BaseSalary { get; set; }
         public Department department { get; set; }
         public ICollection<SelesRecord> seles { get; set; } = new List<SelesRecord>();
-
+        public int DepartmentId { get; set; }
         public Seller()
         {
         }
