@@ -1,3 +1,8 @@
+C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.RazorAssemblyInfo.cache
+C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.RazorAssemblyInfo.cs
+C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.AssemblyInfoInputs.cache
+C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.AssemblyInfo.cs
+C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.csprojAssemblyReference.cache
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\bin\Debug\netcoreapp2.1\appsettings.Development.json
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\bin\Debug\netcoreapp2.1\appsettings.json
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
@@ -8,11 +13,6 @@ C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\bin\Debug\netcoreapp2.1\Wor
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\bin\Debug\netcoreapp2.1\WorkShopMVC.pdb
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\bin\Debug\netcoreapp2.1\WorkShopMVC.Views.dll
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\bin\Debug\netcoreapp2.1\WorkShopMVC.Views.pdb
-C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.csprojAssemblyReference.cache
-C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.RazorAssemblyInfo.cache
-C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.RazorAssemblyInfo.cs
-C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.AssemblyInfoInputs.cache
-C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.AssemblyInfo.cs
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.TagHelpers.input.cache
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.TagHelpers.output.cache
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.RazorCoreGenerate.cache
@@ -25,6 +25,9 @@ C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Raz
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
+C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
@@ -38,5 +41,3 @@ C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Wor
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.dll
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.pdb
 C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\WorkShopMVC.csproj.CopyComplete
-C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
-C:\Users\hiago\Desktop\hiago\WorkShopMVC\WorkShopMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using WorkShopMVC.Data;
 using WorkShopMVC.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace WorkShopMVC.Services
 {
@@ -28,7 +29,7 @@ namespace WorkShopMVC.Services
 
         public Seller FindById(int Id)
         {
-            return _context.Seller.FirstOrDefault(obj => obj.Id == Id);
+            return _context.Seller.Include(obj => obj.department).FirstOrDefault(obj => obj.Id == Id);
         }
 
         public void Remove(int Id)
