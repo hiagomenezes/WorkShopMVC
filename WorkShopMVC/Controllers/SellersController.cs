@@ -41,5 +41,28 @@ namespace WorkShopMVC.Controllers
 
         }
 
+        public IActionResult Delete(int? Id)
+        {
+            if(Id == null)
+            {
+                return NotFound();
+            }
+            var obj = _sellerService.FindById(Id.Value);
+            if (obj == null)
+            {
+                return NotFound();
+            }
+            return View(obj);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Delete(int id)
+        {
+            _sellerService.Remove(id);
+            return RedirectToAction(nameof(Index));
+
+        }
+
     }
 }
