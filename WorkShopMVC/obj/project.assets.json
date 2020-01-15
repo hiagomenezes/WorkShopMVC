@@ -12622,19 +12622,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hiago\\.nuget\\packages\\": {}
+    "C:\\Users\\Hiago Roberto\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hiago\\Desktop\\hiago\\WorkShopMVC\\WorkShopMVC\\WorkShopMVC.csproj",
+      "projectUniqueName": "D:\\Projetos\\WorkShopMVC\\WorkShopMVC\\WorkShopMVC.csproj",
       "projectName": "WorkShopMVC",
-      "projectPath": "C:\\Users\\hiago\\Desktop\\hiago\\WorkShopMVC\\WorkShopMVC\\WorkShopMVC.csproj",
-      "packagesPath": "C:\\Users\\hiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hiago\\Desktop\\hiago\\WorkShopMVC\\WorkShopMVC\\obj\\",
+      "projectPath": "D:\\Projetos\\WorkShopMVC\\WorkShopMVC\\WorkShopMVC.csproj",
+      "packagesPath": "C:\\Users\\Hiago Roberto\\.nuget\\packages\\",
+      "outputPath": "D:\\Projetos\\WorkShopMVC\\WorkShopMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hiago Roberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
